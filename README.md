@@ -1,2 +1,2 @@
-# Geli-mi-Y-ld-z-S-n-fland-rmas-ve-Astroinformatik-EDA-Boru-Hatt-
+# Gelismis Yildiz-Siniflandirmasi ve-Astroinformatik EDA-Boru-Hatti
  Yıldız sınıflandırması için Keşifsel Veri Analizi (EDA) ve görselleştirme hattı.
